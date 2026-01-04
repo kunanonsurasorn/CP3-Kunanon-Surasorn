@@ -1,10 +1,14 @@
-FE_score = 72.50 #FE is Foundation English.
-GB_score = 82.25 #GB is General Business.
-ICS_score = 76.75 #ICS is Introduction to Computer Systems.
-CP_score = 90.00 #CP is Computer Programming.
-print("----------------Your Score----------------")
-print("Foundation English: ", FE_score)
-print("General Business: ", GB_score)
-print("Introduction to Computer Systems: ", ICS_score)
-print("Computer Programming: ", CP_score)
-print("------------------------------------------")
+foundation_english_score = 72.50 
+general_business_score = 82.25 
+intro_computer_systems_score = 76.75 
+computer_programming_score = 90.00 
+#foundation_english_score is the variable of Foundation English.
+#general_business_score is the variable of General Business.
+#intro_computer_systems_score is the variable of Introduction to Computer Systems.
+#computer_programming_score is the variable of Computer Programming.
+print("--------------------------------Your Score--------------------------------")
+print("Foundation English               : ", foundation_english_score)
+print("General Business                 : ", general_business_score)
+print("Introduction to Computer Systems : ", intro_computer_systems_score)
+print("Computer Programming             : ", computer_programming_score)
+print("--------------------------------------------------------------------------")
