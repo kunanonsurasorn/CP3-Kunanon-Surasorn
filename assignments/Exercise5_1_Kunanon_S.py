@@ -7,7 +7,7 @@ addition = first_number + second_number
 subtraction = first_number - second_number
 multiplication = first_number * second_number
 division = first_number / second_number
-division = int(division)
+division = int(division) #การปรับชนิดข้อมูลของdivisionจากfloatเป็นinteger
 
 #แสดงผลการคำนวณตามตัวแปรการบวก,การลบ,การคูณ และ การหารผ่านทางจอภาพ
 print(first_number,"+",second_number,"=",addition)
